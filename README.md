@@ -5,7 +5,7 @@
 
 - [Description](#description)
 - [Features](#features)
-- [How To Run](#how-to-run)
+- [Run](#run)
 - [Author](#author)
 - [References](#references)
 
