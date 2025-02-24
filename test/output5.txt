@@ -1,0 +1,12 @@
+5 5 6
+
+ABBCC
+AABCC
+ABBCC
+DEEFF
+DEEFF
+
+
+Hasil: 
+Waktu penyelesaian: 0 ms
+Kasus yang diperiksa: 8

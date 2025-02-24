@@ -1,29 +1,25 @@
 
-5 5 7
+5 5 6
 
 DEFAULT
 
-
 A
 AA
+A
 
-
+BB
 B
 BB
 
-C
+CC
+CC
 CC
 
-
 D
-DD
+D
 EE
 EE
-E
 
 
 FF
 FF
-F
-
-GGG

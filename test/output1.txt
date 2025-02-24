@@ -1,0 +1,12 @@
+5 5 7
+
+ABBCC
+AABDC
+EEEDD
+EEFFF
+GGGFF
+
+
+Hasil: 
+Waktu penyelesaian: 1 ms
+Kasus yang diperiksa: 805

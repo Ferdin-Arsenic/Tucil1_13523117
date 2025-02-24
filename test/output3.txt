@@ -1,0 +1,10 @@
+3 3 3
+
+ACC
+AAC
+BAA
+
+
+Hasil: 
+Waktu penyelesaian: 0 ms
+Kasus yang diperiksa: 815

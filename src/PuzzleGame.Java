@@ -213,7 +213,7 @@ public class PuzzleGame {
     }
 
     static void saveSolution(String filename, long solveTime) {
-        try (PrintWriter writer = new PrintWriter(new FileWriter("test/" + filename))) {
+        try (PrintWriter writer = new PrintWriter(new FileWriter("../test/" + filename))) {
             writer.println(N + " " + M + " " + P);
             writer.println();
             
@@ -234,7 +234,7 @@ public class PuzzleGame {
     }
 
     static boolean readPuzzle(String filename) {
-        try (BufferedReader reader = new BufferedReader(new FileReader("test/" + filename))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("../test/" + filename))) {
             String line;
             
             line = reader.readLine();
@@ -411,7 +411,7 @@ public class PuzzleGame {
                     }
                     
                     saveSolution(outFile, solveTime);
-                    System.out.println("Solusi tersimpan di " + outFile);
+                    System.out.println("Solusi tersimpan di \n" + outFile);
                 }
             } else {
                 System.out.println("Puzzle tidak dapat terselesaikan!\n");
