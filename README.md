@@ -5,39 +5,42 @@
 
 - [Description](#description)
 - [Features](#features)
-- [Run](#run)
+- [Getting Started](#getting-started)
+- [How-To-Run](#how-to-run)
 - [Author](#author)
 - [References](#references)
 
 ## Description
-Sebuah program berbasis bahasa Java yang mampu memecahkan puzzle berukuran N x M dengan banyak potongan puzzle sebanyak P.
+IQ Puzzle Solver is a program that will find a solution for the puzzle problem by placing all the pieces into the board.
+This program uses brute force algorithm and backtracking to solve the puzzle problem. This program will try all the possible combination including piece placement and orientations until the puzzle is complete.
+
 ## Features
-1. Menerima input berupa file txt
-2. Menampilkan penyelesaian puzzle dalam format berwarna
-3. Menampilkan waktu pemecahan puzzle dalam ms
-4. Menampilkan banyaknya kasus yang ditinjau
-5. Menyimpan solusi dalam file txt
+1. Receive .txt file as an input
+2. Default rectengular board puzzle
+3. Save the puzzle solution on .txt extension
+4. Display the solution with color
 
 
-## Installing/Getting Started
-1. **Clone repository ini**
+## Getting-Started
+1. **Clone this repository**
    ```bash
    git clone https://github.com/Ferdin-Arsenic/Tucil1_13523117.git
    ```
-2. **Ubah direktori dengan menjalankan perintah berikut:**
+2. **Navigate the directory to certain folder by running this command:**
    ```bash
    cd Tucil1_13523117
    ```
 
-### Run
-1. **Ubah direktori dengan menjalankan perintah berikut:**
+### How-To-Run
+1. **Navigate the directory to the bin folder by running this command:**
    ```bash
    cd bin
    ```
-2. **Jalankan program dengan perintah berikut :**
+2. **Run the program by using this command:**
     ```bash
    java PuzzleGame
    ```
+    
 ## Author
 - NIM   : 13523117
 - Nama  : Ferdin Arsenarendra Purtadi
