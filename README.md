@@ -39,9 +39,9 @@ Sebuah program berbasis bahasa Java yang mampu memecahkan puzzle berukuran N x M
    java PuzzleGame
    ```
 ## Author
-**NIM   : 13523117**
-**Nama  : Ferdin Arsenarendra Purtadi**
-**Kelas : K2**
+- NIM   : 13523117
+- Nama  : Ferdin Arsenarendra Purtadi
+- Kelas : K2
 
 ## References
 - [Spesifikasi Tugas Kecil 1 IF2211-Strategi Algoritma](https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Tucil1-Stima-2025.pdf)
