@@ -29,7 +29,7 @@ Sebuah program berbasis bahasa Java yang mampu memecahkan puzzle berukuran N x M
    cd Tucil1_13523117
    ```
 
-### Run Server
+### Run
 1. **Ubah direktori dengan menjalankan perintah berikut:**
    ```bash
    cd bin
